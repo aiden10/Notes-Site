@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#password-field, #email-field {
+    padding-top: 3%;
+}
+  
+#register-button {
+    width: 25%;
+    height: 4em;
+    margin-top: 3%;
+}
+label, input {
+    margin-right: 15px; 
+    display:block;
+}

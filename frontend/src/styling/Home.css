@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title-field, #contents-field{
+    padding-top: 3%;
+
+}
+
+#title{
+    width: 25%;
+}
+#contents{
+    width: 40%;
+    height: 200px;
+}
+
+#create-note-button {
+    width: 40%;
+    height: 4em;
+    margin-top: 3%;
+}
+label, input {
+    font-size: large;
+    margin-right: 15px; 
+    display:block;
+}
+
+#notes-container{
+    position:absolute;
+    top: 11em;
+    right: 3em;
+    background-color: rgb(255, 255, 136);
+    width: 50%;
+    height: auto;
+    padding-bottom: 5em;
+    padding-top: 1em;
+    overflow: auto;
+}
