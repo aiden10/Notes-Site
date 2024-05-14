@@ -8,8 +8,7 @@
 - Login/Logout System
 - Note Creation/Viewing
 
-## Built With
-### React and Django
+## Built With React and Django
 I used Django to create the backend which consisted of the User model and Text model, as well as the respective endpoints for GET or POST requests.
 React was used for the frontend and handled the visuals and sending the HTTP requests to the backend.
 
